@@ -10,7 +10,7 @@ Recommendation using Collaborative Filtering:
   See: http://surpriselib.com/
 
 #### Notebook:
-- First manually, using a simplistic model
+- First manually, using a simplistic model, solved by SGD.
 - Then using Surprise library to use Simon Funk's Netflix prized model.
 - Calculating RMSE
 - Tuning model
